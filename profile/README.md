@@ -62,7 +62,7 @@ npm install
 npm run dev
 ```
 
-📥 **O descarga en nuestra Web:** [Última versión](https://github.com/CeroCloud/CeroCloud-Desktop/releases)
+📥 **O descarga en nuestra Web:** [Última versión](https://cerocloud.github.io/CeroCloud-website/releases)
 
 ---
 
